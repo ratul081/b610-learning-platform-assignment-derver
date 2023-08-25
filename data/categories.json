@@ -1,0 +1,30 @@
+[
+    {
+      "id": "01",
+      "name": "Web Development"
+    },
+    {
+      "id": "02",
+      "name": "Python Django"
+    },
+    {
+      "id": "03",
+      "name": "Blockchain Technology"
+    },
+    {
+      "id": "04",
+      "name": "Amazon Web Service"
+    },
+    {
+      "id": "05",
+      "name": "Ethical Hacking"
+    },
+    {
+      "id": "06",
+      "name": "UX/UI Design"
+    },
+    {
+      "id": "07",
+      "name": "All Courses"
+    }
+  ]

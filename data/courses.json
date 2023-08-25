@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_students": 488,
+    "title": "Web development",
+    "image_url": "https://i.postimg.cc/VsxdtChH/Web-Devolopmentjpg.jpg",
+    "details": "No matter what level of experience or technical knowledge you currently have, this course will help you master the Fundamentals of Web Development. In this comprehensive course, web developers gain an in-depth understanding of the web development process and life cycle. The goal of this course is to teach you how to create dynamic web pages with HTML, CSS, and JavaScript, apply essential programming concepts when designing HTML forms, select an appropriate web hosting service, and publish your webpages. The course will prepare you to start a glorious tech career as a Professional Web Developer. ",
+    "overview": "Web development is in high demand and a top-five technology job, with an anticipated 30.3% increase in demand for web developers from 2021 to 2031. Keep ahead of the competition by enrolling in our Comprehensive Web Development Course to learn the latest trends from experienced web developers."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_students": 488,
+    "title": "Python Django",
+    "image_url": "https://i.postimg.cc/T2LKh9tD/Python-Djno.jpg",
+    "details": "We have designed our course module for beginners and intermediate-level learners who want to gain hands-on experience in developing web applications with Django. This course will equip you with the skills and knowledge necessary to develop robust and scalable web applications using this high-level framework. Our course module includes everything, from coding fundamentals to prototype creation, to gradually increase your competence as a developer. In addition, you learn to use the vast amount of resources that the Django library offers. By the end of the course, you will have a deep understanding of the Django framework and its various components, including models, views, templates, and forms. You will also have the confidence to develop complex web applications with Django, deploy them on cloud platforms, and collaborate with other developers. ",
+    "overview": "Did you know Instagram, Youtube, and Dropbox were built using Python Django's flexible features? 76% of developers prefer this high-level web framework with comprehensive code libraries to build sophisticated web apps. Whether you are looking to build your career in Web Development or simply want to enhance your programming skills, this Python Django Course is an excellent starting point. Join us today and unlock the power of Django to build cutting-edge web applications."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_students": 488,
+    "title": "Blockchain Technology",
+    "image_url": "https://i.postimg.cc/RZ9hsz47/block-chain.jpg",
+    "details": "This course aims to provide you with extensive knowledge of blockchain trends and prepares you for the workplace. Day by day many sectors including banking, e-commerce, insurance, and industries are relying on blocks to preserve their valuable data. By learning this technology you can develop your career with expertise. Our course module is designed from basic to advanced to gradually improve your competence. You will learn networking, decentralized application, cryptographic security and many more trendy topics. In addition, you get practical classes that help you learn better.",
+    "overview": "Want to learn the technology that will drive the next generation? Blockchain is the safest database mechanism that has the potential to bring tech revolution in the future. The use of this technology is gaining popularity with time for its incredible features. Offering a safe data transmission process, this shared database can work with proficiency and maximum accuracy. Enroll now."
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_students": 488,
+    "title": "Amazon Web Service",
+    "image_url": "https://i.postimg.cc/7br8LDmm/Amazon-cloude.jpg",
+    "details": "We have designed our course module from basic to advanced to gradually increase your competence. You don't need prior knowledge of Amazon web or cloud computing to start this course. We will introduce you to the features and services of AWS, coding and networking basics that will make a solid base for understanding the other topics. This course is a complete package with practical classes that will answer all of your questions.",
+    "overview": "We have designed our course module from basic to advanced to gradually increase your competence. You don't need prior knowledge of Amazon web or cloud computing to start this course. We will introduce you to the features and services of AWS, coding and networking basics that will make a solid base for understanding the other topics. This course is a complete package with practical classes that will answer all of your questions."
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_students": 488,
+    "title": "Ethical Hacking",
+    "image_url": "https://i.postimg.cc/x8zVYqyX/Ethical-hacking.jpg",
+    "details": "You don’t need to have previous knowledge of ethical hacking to enroll in this course. Our course has been designed from the basics to advanced to make it available for anyone interested to learn. You will gradually increase your competence in trendy topics like network scanning, cryptography, cloud computing, system hacking and many more. You will also solve practical projects that will be a great addition to your portfolio.",
+    "overview": "You don’t need to have previous knowledge of ethical hacking to enroll in this course. Our course has been designed from the basics to advanced to make it available for anyone interested to learn. You will gradually increase your competence in trendy topics like network scanning, cryptography, cloud computing, system hacking and many more. You will also solve practical projects that will be a great addition to your portfolio."
+  },
+  {
+    "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_students": 488,
+    "title": "UX/UI Design",
+    "image_url": "https://i.postimg.cc/J4jt5hV7/UI-UX.jpg",
+    "details": "UX designers do a number of things, from figuring out problems to finding the solution, they have a great impact on the overall appearance of a website. As a result, most companies are searching for skilled designers to create user-friendly websites.The course starts with the basics of sketching, where you will learn the process of designing apps or websites using flowcharts. You will also learn to use AdobeXD and Figma softwares. Completing all the projects, you can make your own portfolio showing the practical skills to stand out in the job market.",
+    "overview": "UX Design has become one of the top high demand jobs in the tech world. Companies are prioritizing on hiring skilled designers as it plays a crucial role in ensuring user friendly websites. A study shows, almost 77% of online business fail to survive in the competitive global market due to complex interface design. UX designers ensure the efficacy of the website, making it easily accessible to the users. If you like to work with graphical elements, this course is for you."
+  }
+]
