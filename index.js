@@ -9,7 +9,7 @@ const categories = require('./data/categories.json')
 const courses = require('./data/courses.json')
 
 app.get('/', (req, res) => {
-  res.send('Hello boys')
+  res.send('Courses API Loading')
 })
 app.get('/courses', (req, res) => {
   res.send(courses)
